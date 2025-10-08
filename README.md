@@ -1,2 +1,70 @@
-# Smart-Clipboard-Manager
-A modern, lightweight Chrome extension that automatically saves everything you copy — text, links, and code — and organizes it neatly with categories, search, and pinning.
+# 🧠 Smart Clipboard – Chrome Extension
+
+A modern, lightweight **Chrome extension** built with **React + Tailwind** and the **Chrome Extensions API**.  
+Automatically captures copied **text, links, and code snippets** across all browser tabs — with pinning, search, and clean UI.
+
+---
+
+## 🚀 Features
+
+1. **Automatic Clipboard Capture**  
+Detects copied text from any active tab and stores it locally (refreshes daily).
+
+2. **Pin & Manage Items**  
+Pin important snippets for quick access and delete or clear all with one click.
+
+3. **Smart Categorization**  
+Automatically detects **text**, **URLs**, and **code snippets**.
+
+4. **Modern UI**  
+Built with **React + Tailwind CSS**, optimized for Chrome popup layout — fast, smooth, and responsive.
+
+5. **Local Storage (No Login Needed)**  
+All your clipboard history stays on your device using Chrome’s local storage.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React
+- **Styling:** Tailwind CSS
+- **Extension API:** Chrome Extensions Manifest V3
+- **Storage:** Chrome Local Storage
+
+
+---
+
+## 🧩 Example Use Cases
+
+- Copy text/code snippets while researching.
+
+- Save important URLs you visit frequently.
+
+- Manage daily clipboard history cleanly.
+
+---
+
+## ⚙️ Installation
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/YOUR-USERNAME/smart-clipboard.git
+cd smart-clipboard/popup
+```
+### 2️⃣ Install dependencies
+```bash
+npm install
+```
+### 3️⃣ Build the extension
+```bash
+npm run build
+```
+### 4️⃣ Load into Chrome
+
+- Open chrome://extensions/
+
+- Enable Developer Mode
+
+- Click Load unpacked
+
+- Select the smart-clipboard/popup/dist folder
