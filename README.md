@@ -49,12 +49,3 @@ npm install
 ```bash
 npm run build
 ```
-### 4️⃣ Load into Chrome
-
-- Open chrome://extensions/
-
-- Enable Developer Mode
-
-- Click Load unpacked
-
-- Select the smart-clipboard/popup/dist folder
