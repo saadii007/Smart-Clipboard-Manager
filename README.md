@@ -38,7 +38,7 @@ All your clipboard history stays on your device using Chrome’s local storage.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/smart-clipboard.git
+git clone https://github.com/saadii007/Smart-Clipboard-Manager.git
 cd smart-clipboard/popup
 ```
 ### 2️⃣ Install dependencies
