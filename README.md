@@ -34,16 +34,6 @@ All your clipboard history stays on your device using Chrome’s local storage.
 
 ---
 
-## 🧩 Example Use Cases
-
-- Copy text/code snippets while researching.
-
-- Save important URLs you visit frequently.
-
-- Manage daily clipboard history cleanly.
-
----
-
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the repository
