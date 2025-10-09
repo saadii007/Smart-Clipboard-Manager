@@ -5,6 +5,8 @@ Automatically captures copied **text, links, and code snippets** across all brow
 
 ---
 
+![Image](https://github.com/user-attachments/assets/fffc3864-aef8-4cba-87ba-c381e51aabfc)
+
 ## 🚀 Features
 
 1. **Automatic Clipboard Capture**  
