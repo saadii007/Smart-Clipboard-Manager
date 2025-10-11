@@ -1,4 +1,4 @@
-# 🧠 Smart Clipboard – Chrome Extension
+# Smart Clipboard – Chrome Extension
 
 A modern, lightweight **Chrome extension** built with **React + Tailwind** and the **Chrome Extensions API**.  
 Automatically captures copied **text, links, and code snippets** across all browser tabs — with pinning, search, and clean UI.
@@ -7,7 +7,7 @@ Automatically captures copied **text, links, and code snippets** across all brow
 
 ![Image](https://github.com/user-attachments/assets/fffc3864-aef8-4cba-87ba-c381e51aabfc)
 
-## 🚀 Features
+## Features
 
 1. **Automatic Clipboard Capture**  
 Detects copied text from any active tab and stores it locally (refreshes daily).
@@ -26,7 +26,7 @@ All your clipboard history stays on your device using Chrome’s local storage.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React
 - **Styling:** Tailwind CSS
@@ -36,18 +36,18 @@ All your clipboard history stays on your device using Chrome’s local storage.
 
 ---
 
-## ⚙️ Installation
+## Installation
 
-### 1️⃣ Clone the repository
+### 1️. Clone the repository
 ```bash
 git clone https://github.com/saadii007/Smart-Clipboard-Manager.git
 cd smart-clipboard/popup
 ```
-### 2️⃣ Install dependencies
+### 2️. Install dependencies
 ```bash
 npm install
 ```
-### 3️⃣ Build the extension
+### 3️. Build the extension
 ```bash
 npm run build
 ```
